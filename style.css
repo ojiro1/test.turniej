@@ -1,5 +1,5 @@
 body{
-    font-family: 'Arial', sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     background-color: #f4f4f4;
     color: #333;
     margin: 0;
@@ -97,6 +97,6 @@ li:before {
 
 .mid a:hover {
     text-decoration: none; 
-    background-color: darkblue;
+    background-color: #3498db;
     color: #000;
 }
